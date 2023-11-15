@@ -1,7 +1,7 @@
 # Greetings! I'm Qamreen.
 
 <div align="right">
-  <img src="[URL-to-your-GIF](https://condaluna.com/assets/stickers/work.gif)" alt="GIF" width="100" height="100">
+  <img src="[URL-to-your-GIF](https://i.pinimg.com/originals/8c/19/8b/8c198b4daf10ee93a868183f9051dc47.gif)" alt="GIF" width="100" height="100">
 </div>
 
 I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.
