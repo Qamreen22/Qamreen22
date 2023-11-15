@@ -1,7 +1,7 @@
 # Greetings! I'm Qamreen.
 
 <div align="right">
-  <img src="URL-to-your-GIF](https://condaluna.com/assets/stickers/work.gif" alt="GIF" width="100" height="100">
+  <img src="[URL-to-your-GIF](https://condaluna.com/assets/stickers/work.gif)" alt="GIF" width="100" height="100">
 </div>
 
 I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.
@@ -20,7 +20,7 @@ My current academic focus revolves around advancing my coding skills and delving
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/qamreen/)
+- LinkedIn: [Link](https://www.linkedin.com/in/qamreen-2481b4239/)
 
 Feel free to reach out for collaboration, provide feedback on my projects, or engage in discussions about the convergence of computer science and design.
 
