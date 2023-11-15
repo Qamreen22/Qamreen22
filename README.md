@@ -1,6 +1,6 @@
 # Greetings! I'm Qamreen.
 
-<div align="right">
+<div align="right" diplay="flex">
   <img src="./8c198b4daf10ee93a868183f9051dc47.gif" alt="GIF" width="100" height="100">
 </div>
 
