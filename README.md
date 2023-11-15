@@ -1,8 +1,12 @@
 # Greetings! I'm Qamreen.
 
-<div style="display: flex; flex-direction: row;">
-   <p style="margin-left: 20px;">I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.</p>
-   <img src="./8c198b4daf10ee93a868183f9051dc47.gif" alt="GIF" width="200" height="200">
+<div style="overflow: hidden;">
+    <div style="float: left; margin-right: 20px;">
+        <img src="./8c198b4daf10ee93a868183f9051dc47.gif" alt="GIF" width="200" height="200">
+    </div>
+    <div>
+        <p>I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.</p>
+    </div>
 </div>
 
 ## 🔧 Technologies & Tools
