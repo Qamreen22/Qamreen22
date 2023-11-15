@@ -17,7 +17,7 @@ My current academic focus revolves around advancing my coding skills and delving
 
 ## 📫 Let's Connect
 
--LinkedIn: [link](https://www.linkedin.com/in/qamreen-2481b4239/)
+- LinkedIn: [link](https://www.linkedin.com/in/qamreen-2481b4239/)
 
 Feel free to reach out for collaboration, provide feedback on my projects, or engage in discussions about the convergence of computer science and design.
 
