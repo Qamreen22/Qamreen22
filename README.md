@@ -29,7 +29,7 @@ Feel free to reach out for collaboration, provide feedback on my projects, or en
 
 ![snake gif](https://github.com/Qamreen22/Qamreen22/blob/output/github-contribution-grid-snake.gif)
 
-Thank you for visiting! Please explore my repositories, and feel free to connect. Looking forward to fruitful collaborations! 👩‍💻✨
+
 
 
 <!--
