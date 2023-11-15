@@ -1,7 +1,7 @@
 # Greetings! I'm Qamreen.
 
 <div diplay="flex">
-  I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.
+ <p>I am currently pursuing my Bachelor of Engineering in Computer Science and Design. This GitHub repository serves as a showcase of my work, reflecting my commitment to both the technical and creative aspects of computing.</p>
    <img src="./8c198b4daf10ee93a868183f9051dc47.gif" alt="GIF" width="100" height="100">
 </div>
 
